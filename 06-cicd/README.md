@@ -8,6 +8,10 @@ Render is then used to pull this pre-built, validated image and run it as a live
 
 ## 🔁 Workflow Concept
 
+
+.
+
+
 The process is a clean, automated flow for building and testing the application, followed by a manual deployment step on Render.
 
 ```

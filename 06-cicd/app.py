@@ -6,6 +6,7 @@ Model is baked into Docker image at build time:
 """
 
 from __future__ import annotations
+#
 
 from contextlib import asynccontextmanager
 from pathlib import Path
